@@ -1,0 +1,16 @@
+.header{
+  font-size: 21px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.list{
+  border: 1px solid black;
+}
+.items{
+text-decoration-color: black;
+background-color: white;
+}
+.items:hover{
+  background-color: black;
+  color:white;
+}
